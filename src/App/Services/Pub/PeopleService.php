@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\Widget;
+namespace App\Services\Pub;
 
 use App\Managers\People\PersonManager;
 use App\Vo\People\PersonVoExport;

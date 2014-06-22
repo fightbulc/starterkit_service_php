@@ -2,6 +2,6 @@
 
 return [
     'services' => [
-        'Public.People.getPerson' => 'App\Services\Public\PeopleService',
+        'Pub.People.getPerson' => 'App\Services\Pub\PeopleService',
     ],
 ];
